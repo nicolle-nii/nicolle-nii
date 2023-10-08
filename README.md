@@ -3,7 +3,9 @@
 Meu nome é nicolle 
 
 -Estou estudando no [Alura](https://www.alura.com.br)
+
 -Estou me desenvolvendo no JavaScript;
+
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos  desenvolvidos;
 
 ### 
